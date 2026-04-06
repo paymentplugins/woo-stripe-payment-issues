@@ -1,5 +1,5 @@
 # Payment Plugins for Stripe WooCommerce Issues
-  This repository is used to track bug reports, feedback, and compatibility issues
+  This repository is used to track bug reports, feedback, feature requests, and compatibility issues
   for the [Payment Plugins for Stripe WooCommerce](https://wordpress.org/plugins/woo-stripe-payment/)
   plugin by Payment Plugins.
 
