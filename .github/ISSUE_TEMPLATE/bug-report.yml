@@ -68,7 +68,7 @@ body:
       description: |
         Go to **WooCommerce > Status**, click "Logs", then check if there is a "fatal-errors" log file that 
         corresponds to the bug you're reporting. This will allow us to review any errors that are being triggered.
-      value: |
+      placeholder: |
         Paste the log entry (if it exists) that corresponds to the bug you're reporting
     validations:
       required: true
